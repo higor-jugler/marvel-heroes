@@ -4,7 +4,6 @@ import daniel.lop.io.marvelappstarter.data.model.character.CharacterModelRespons
 import daniel.lop.io.marvelappstarter.data.model.comic.ComicModelResponse
 import retrofit2.Response
 import retrofit2.http.GET
-import retrofit2.http.PATCH
 import retrofit2.http.Path
 import retrofit2.http.Query
 
